@@ -1,0 +1,11 @@
+{
+  "name": "bright-colors",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "color": "^0.11.1"
+  }
+}
