@@ -29,8 +29,10 @@ white_normal  | #ABB2BF | rgb(171, 178, 191) | hsl(219, 14%, 71%) | hsv(219, 10%
 white_bright  | #CFD7E6 | rgb(207, 215, 230) | hsl(219, 31%, 86%) | hsv(219, 10%, 90%)
 ```
 
-**Originally extracted colors:**
-```
+![screen](https://raw.githubusercontent.com/ch1bo/bright-colors/master/screen.png)
+
+## Originally extracted colors:
+
 #282C34
 #98C379
 #E5C07B
