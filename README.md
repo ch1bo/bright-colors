@@ -6,8 +6,9 @@ set of colors using the HSV (a.k.a HSB) color space.
 I used this to generate bright variants of the atom One Dark syntax color scheme
 for my `Xresources`.
 
-## Output of the script -> ANSI Color scheme based on Atom One Dark Syntax
+## Output -> ANSI Color scheme based on Atom One Dark Syntax
 
+```
 name          | hex      | rgb                | hsl                | hsv
 --------------+---------+--------------------+--------------------+--------------------
 black_normal  | #282C34 | rgb(40, 44, 52)    | hsl(220, 13%, 18%) | hsv(220, 23%, 20%)
@@ -26,9 +27,10 @@ cyan_normal   | #56B6C2 | rgb(86, 182, 194)  | hsl(187, 47%, 55%) | hsv(187, 56%
 cyan_bright   | #66D9E8 | rgb(102, 217, 232) | hsl(187, 74%, 66%) | hsv(187, 56%, 91%)
 white_normal  | #ABB2BF | rgb(171, 178, 191) | hsl(219, 14%, 71%) | hsv(219, 10%, 75%)
 white_bright  | #CFD7E6 | rgb(207, 215, 230) | hsl(219, 31%, 86%) | hsv(219, 10%, 90%)
+```
 
-## Originally extracted colors:
-
+**Originally extracted colors:**
+```
 #282C34
 #98C379
 #E5C07B
@@ -57,3 +59,4 @@ white_bright  | #CFD7E6 | rgb(207, 215, 230) | hsl(219, 31%, 86%) | hsv(219, 10%
 #5C6370
 #636D83
 #828997
+```
